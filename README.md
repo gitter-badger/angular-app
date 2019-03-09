@@ -4,9 +4,9 @@
 Links
 -----
 
-### [Github][github]
+### [ng.appasset.ru][@]
 
-### [angular.appasset.ru][@]
+### [Github][github]
 
 
 Documentation
@@ -20,5 +20,5 @@ Documentation
 -   [angular-cli](https://github.com/angular/angular-cli/blob/master/README.md)
 
 
-[@]:      http://angular.appasset.ru/
+[@]:      http://ng.appasset.ru/
 [github]: https://github.com/appasset/angular-app
