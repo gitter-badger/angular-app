@@ -7,7 +7,7 @@ Documentation
 -   [my-angular-app](https://github.com/appasset/angular-app/blob/master/documentation/my-angular-app.md)
 
 
-### [Angular]
+### Angular
 
 -   [angular-cli](https://github.com/angular/angular-cli/blob/master/README.md)
 
